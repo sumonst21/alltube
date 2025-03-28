@@ -5,7 +5,7 @@
   "author": "Pierre Rudloff",
   "bugs": "https://github.com/Rudloff/alltube/issues",
   "dependencies": {
-    "grunt": "~1.0.1",
+    "grunt": "~1.5.3",
     "grunt-contrib-cssmin": "~2.2.1",
     "grunt-phpdocumentor": "^0.4.1",
     "grunt-potomo": "~3.5.0",
